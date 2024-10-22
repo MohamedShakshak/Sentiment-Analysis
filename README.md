@@ -1,10 +1,10 @@
 Sentiment-Analysis
 
-*Overview
+* Overview
 
   This project focuses on entity-level sentiment analysis using a Twitter dataset. This project determine the sentiment of messages in relation to specific entities, classifying them as Positive, Negative, Neutral, or Irrelevant. Through this       project, we aim to apply machine learning techniques to accurately predict the sentiment behind each tweet, enhancing the ability of businesses and organizations to better understand and respond to the public’s sentiment toward their entities     in real time. The project utilizes Natural Language Processing (NLP) techniques to preprocess the text data and multiple machine learning models to classify the messages. The final application includes a deployment built with streamlit for ease   of use.
 
-*Features
+* Features
 
   -Message Classification:Classify messages as Positive, Negative, Neutral, or Irrelevant.
 
@@ -14,8 +14,8 @@ Sentiment-Analysis
 
   You can check out the live deployment of the app here: https://sentiment-analysis-gvumalfde5qghuwgwxdl3c.streamlit.app/
 
-*Technologies Used
+ *Technologies Used
 
   Programming Language: Python Libraries: Scikit-learn, Pandas, NumPy, NLTK (Natural Language Toolkit), streamlit (for deployment).
 
-*DataSet https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+* DataSet https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
